@@ -36,8 +36,6 @@ Mocha Codespace supports **12+ programming languages** out of the box:
 
 ### 📝 Editor Features
 - **Auto-indentation**: Smart indenting based on code structure
-- **Syntax highlighting**: Powered by Pygments (optional but recommended)
-- **Auto-pairs**: Automatically closes brackets, quotes, and parentheses
 - **Tab-to-spaces**: Inserts 4 spaces when you press Tab
 - **Undo/Redo**: Full edit history support
 - **Find text**: Quick search functionality
