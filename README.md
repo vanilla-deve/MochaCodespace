@@ -2,7 +2,7 @@
 
 A cozy, beginner-friendly IDE with a warm mocha aesthetic. Built with PyQt6/PySide6 and designed for developers who want a pleasant coding environment without overwhelming complexity.
 
-![Version](https://img.shields.io/badge/version-0.1.0-c9ada7)
+![Version](https://img.shields.io/badge/version-0.2-c9ada7)
 ![Python](https://img.shields.io/badge/python-3.10+-704241)
 ![License](https://img.shields.io/badge/license-GNU-9a8c98)
 
